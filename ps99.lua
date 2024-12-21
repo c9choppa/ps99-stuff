@@ -50,3 +50,5 @@ local zones = {
     {number = 49, name = "Metal Dojo", price = 200000000000000000000}, -- 200 Platinum Bars
     {number = 50, name = "Fire Dojo", price = 500000000000000000000}, -- 500 Platinum Bars
 }
+
+return zones
